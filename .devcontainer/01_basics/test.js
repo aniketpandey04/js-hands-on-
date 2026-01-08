@@ -1,1 +1,3 @@
-console.log("Hi I'm Aniket")
+const greeting = "Hi I'm Aniket";
+
+module.exports = greeting;
